@@ -1,0 +1,4 @@
+The total payment is $10305.81
+The average pay per employee is $2576.45
+The smallest payment was $2061.61
+The largest payment was $3138.67
